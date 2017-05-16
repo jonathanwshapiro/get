@@ -1,0 +1,9 @@
+{
+	"name": "get",
+	"version": 1.0,
+	"startup": "get.js",
+	"command": "get",
+	"help": [
+		["{{commandPrefix}}get", "what the fuck did you ask for help for, you fucking bitch"]
+	]
+}
